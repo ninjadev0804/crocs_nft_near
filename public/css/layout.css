@@ -1,0 +1,11 @@
+body { 
+   background: #0f0f0f; 
+}
+
+#bodycontent {
+   background: #000 url(../images/landing/background.png) no-repeat;
+   background-size: cover !important;
+	-webkit-background-size: cover !important;
+   position: relative;
+   width: 100%;
+}
